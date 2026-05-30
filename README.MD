@@ -1,7 +1,7 @@
-# \textit{One Stone Three Birds}: Three-Dimensional Implicit Neural Network for Compression and Continuous Representation of Multi-Altitude Climate Data
+# __One Stone Three Birds__: Three-Dimensional Implicit Neural Network for Compression and Continuous Representation of Multi-Altitude Climate Data
 
 ## Introduction
-This is the code repository of the paper: \textit{One Stone Three Birds}: Three-Dimensional Implicit Neural Network for Compression and Continuous Representation of Multi-Altitude Climate Data
+This is the code repository of the paper: __One Stone Three Birds__: Three-Dimensional Implicit Neural Network for Compression and Continuous Representation of Multi-Altitude Climate Data
 <!-- [Implicit Neural Representations for Simultaneous Reduction and Continuous Reconstruction of Multi-Altitude Climate Data
 ](https://doi.org/10.1109/MLSP58920.2024.10734742) -->
 
