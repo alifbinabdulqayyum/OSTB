@@ -14,17 +14,17 @@ To download the data, run the following commands:
 bash data.sh
 ```
 
-<!-- ## Train
-To train GEI-LIIF, GPEI-LIIF, PEI-LIIF, LIIF models, run the following commands:
+## Train
+Run the following commands:
 ```
 bash train.sh
 ```
 
 ## Test
-To test the trained GEI-LIIF, GPEI-LIIF, PEI-LIIF, LIIF models, run the following commands:
+Run the following commands:
 ```
 bash test.sh
-``` -->
+```
 
 ## Citation
 Coming Soon
